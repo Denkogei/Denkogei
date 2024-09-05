@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Software DEvelopment in Moringa School<br>I’m looking to collaborate on open-source projects especially good first issues on Javascript, React js, HTML5, CSS3, Flask.<br>💬 Ask me about Full-stack Web Development, Javascript, Python and tech related ideas especially if you want to get started or still a newbie.<br>📫 How to reach me: denkogei11@gmail.com<br>⚡ Fun fact: My background is Diploma in Information Technology but learnt that I can be a developer without a CS degree i love creating web applications -->
+🌱 I’m currently learning Software Development in Moringa School<br>I’m looking to collaborate on open-source projects especially good first issues on Javascript, React js, HTML5, CSS3, Flask.<br>💬 Ask me about Full-stack Web Development, Javascript, Python and tech related ideas especially if you want to get started or still a newbie.<br>📫 How to reach me: denkogei11@gmail.com<br>⚡ Fun fact: My background is Diploma in Information Technology but learnt that I can be a developer without a CS degree i love creating web applications -->
 
 
 ## 🌐 Socials:
